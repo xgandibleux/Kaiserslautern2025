@@ -1,6 +1,6 @@
 # Content: 
 
-Slides:
+Slides (prepared for ÖGOR Summer-Workshop for PhD-candidates and Post-Docs, August 2023):
 
 -   [Topic 01:](01.Topic1.ecosystempdf.pdf) Introduction, software environment, REPL, packages, working with Julia
 -   [Topic 02:](02.Topic2.basics.pdf) Values, variables, types, constants, print, input, comments, basic maths
